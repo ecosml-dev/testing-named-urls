@@ -7,10 +7,12 @@
     "test2"
   ],
   "theme": [
-    "abiotic"
+    "abiotic",
+    "chemistry"
   ],
   "family": [
-    "methane"
+    "methane",
+    "carbon"
   ],
   "specific": [],
   "organization": "cstars",
