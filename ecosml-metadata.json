@@ -2,7 +2,9 @@
   "id": "7ad9209d-0950-4102-840a-f4accc4ca867",
   "name": "testing-named-urls",
   "overview": "this is a test, this is only a test",
-  "keywords": [],
+  "keywords": [
+    "test1"
+  ],
   "theme": [],
   "family": [],
   "specific": [],
