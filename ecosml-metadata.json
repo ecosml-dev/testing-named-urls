@@ -3,8 +3,7 @@
   "name": "testing-named-urls",
   "overview": "this is a test, this is only a test",
   "keywords": [
-    "test1",
-    "test2"
+    "test1"
   ],
   "theme": [
     "abiotic"
