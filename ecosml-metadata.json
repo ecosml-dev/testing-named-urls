@@ -6,8 +6,12 @@
     "test1",
     "test2"
   ],
-  "theme": [],
-  "family": [],
+  "theme": [
+    "abiotic"
+  ],
+  "family": [
+    "methane"
+  ],
   "specific": [],
   "organization": "cstars",
   "language": "python",
